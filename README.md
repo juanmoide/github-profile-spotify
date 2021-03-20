@@ -1,8 +1,8 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+&nbsp; <br> [![Spotify](https://now-playing-juanmoide.vercel.app/api/spotify)](https://open.spotify.com/user/jogcidajt9ace6tqffvv36w8j)
 
   </td>
   <td width="50%">
